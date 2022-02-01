@@ -1,0 +1,60 @@
+// @media (max-width:768px){
+//   .main-nav a {
+//     display: none;
+//   }
+//
+//   nav .side-nav a {
+//     display: block;
+//
+//   }
+//
+//   .container-h {
+//     display: flex;
+//     align-items: center;
+//     width: 50%;
+//   }
+//
+//   .logo {
+//     width: 119px;
+//     height: 52px;
+//     background: url("../images/logo-1.svg");
+//   }
+//
+//
+//   #burger {
+//     display: block;
+//     align-self: flex-end;
+//     padding-right: 80px;
+//     opacity: 1;
+//     font-size: 2em;
+//
+//   }
+// }
+
+
+@media (max-width: 768px){
+  .main-nav {
+    justify-content: space-between;
+    padding: 0 30px;
+  }
+
+  .main-nav a {
+    display: none;
+  }
+
+  nav .side-nav a {
+    display: block;
+  }
+
+  .subscription {
+    
+  }
+
+  #burger {
+    display: block;
+    padding-right: 80px;
+    align-self: flex-end;
+    justify-content: center;
+    color: white;
+  }
+}

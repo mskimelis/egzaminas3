@@ -1,0 +1,42 @@
+footer {
+// display: flex;
+// align-items: center;
+height: 124px;
+width: 100%;
+background: #1C1C1C;
+position: absolute
+}
+
+.content-f {
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+height: 30px;
+width: 100%;
+padding-top: 50px;
+color: white;
+}
+
+.socials-2 {
+display: flex;
+justify-content: space-around;
+align-items: center;
+width: 35%;
+padding-top: 15px;
+}
+
+.paragraph {
+  display: flex;
+  justify-content: flex-end;
+  width: 30%;
+  color: #FFFFFF;
+  opacity: 50%;
+  font-size: 18px;
+  font-family: montserrat;
+}
+
+.wifi {
+  height: 20px;
+  width: 20px;
+  color: #E27866;
+}

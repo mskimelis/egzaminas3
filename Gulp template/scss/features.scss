@@ -1,0 +1,117 @@
+.section-4 {
+  width: 100%;
+  height: 596px;
+  background: #1C1C1C;
+  color: white;
+  text-align: center;
+  overflow: hidden;
+}
+
+.logo-2 {
+  position: relative;
+  top: 200px;
+  left: 270px;
+  width: 389px;
+  height: 169px;
+  background: url("../images/logo-2.svg");
+}
+
+.features h1 {
+  font-size: 30px;
+  position: absolute;
+  top: 1601px;
+  left: 967px;
+}
+
+.divider-2 {
+    background: url("../images/divider-2.svg");
+    height: 2px;
+    width: 200px;
+    position: absolute;
+    top: 1708px;
+    left: 967px;
+}
+
+.features p {
+  font-size: 14px;
+  position: absolute;
+  top: 1741px;
+  left: 767px;
+  height: 100px;
+}
+
+  .svg-1 {
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    background: #E27866;
+    position: absolute;
+    top: 1838px;
+    left: 965px;
+  }
+
+  .svg-2 {
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    background: #E27866;
+    position: absolute;
+    top: 1968px;
+    left: 965px;
+  }
+
+  .chat {
+    background: url(../images/comment-regular.svg);
+    background-repeat: no-repeat;
+    height: 19px;
+    width: 21px;
+    position: absolute;
+    top: 16px;
+    left: 16px;
+  }
+
+  .eye {
+    background: url(../images/eye-regular.svg);
+    background-repeat: no-repeat;
+    height: 19px;
+    width: 21px;
+    position: absolute;
+    top: 16px;
+    left: 15px;
+  }
+
+.svg-1-text {
+  position: relative;
+  content: "";
+  top: 150px;
+  left: 105px;
+  color: white;
+  font-family: montserrat;
+}
+
+.svg-2-text {
+  position: relative;
+  content: "";
+  top: 150px;
+  left: 105px;
+  color: white;
+  font-family: montserrat;
+}
+
+.svg-1-text p{
+  position: relative;
+  content: "";
+  left: 735px;
+  top: 15px;
+  color: white;
+  font-size: 14px;
+}
+
+.svg-2-text p{
+  position: relative;
+  content: "";
+  top: 15px;
+  left: 735px;
+  color: white;
+  font-size: 14px;
+}
